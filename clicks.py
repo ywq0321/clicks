@@ -1,28 +1,6 @@
 import pyautogui
 import time
 import keyboard
-import numpy as np
-import matplotlib.pyplot as plt
-
-# time.sleep(1)
-# i = 0
-# while 1:
-#     screen = np.array(pyautogui.screenshot())
-#     while i < 1036:
-#         if (screen[i][2423] == [197, 197, 197]).all():
-#             print(screen[i+2][2467])
-#
-#             if not (screen[i+2][2467] == [230, 238, 255]).all():
-#                 pyautogui.moveTo(2423, i+2)
-#                 pyautogui.click()
-#             i += 35
-#         pyautogui.scroll(-1000)
-#         i += 1
-#     break
-
-# while 1:
-#     print(pyautogui.position())
-#     time.sleep(0.1)
 
 mark = time.time()
 while 1:
