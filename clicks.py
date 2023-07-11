@@ -24,7 +24,7 @@ while 1:
             pyautogui.click()
             pyautogui.moveTo(2676, 691)
             pyautogui.click()
-            pyautogui.moveTo(2839, y=672)
+            pyautogui.moveTo(2839, 672)
             pyautogui.click()
             pyautogui.moveTo(1993, 1813)
             pyautogui.scroll(-10000)
