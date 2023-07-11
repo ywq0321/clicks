@@ -20,9 +20,9 @@ import matplotlib.pyplot as plt
 #         i += 1
 #     break
 
-while 1:
-    print(pyautogui.position())
-    time.sleep(0.1)
+# while 1:
+#     print(pyautogui.position())
+#     time.sleep(0.1)
 
 mark = time.time()
 while 1:
